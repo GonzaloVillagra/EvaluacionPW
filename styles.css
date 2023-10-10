@@ -1,0 +1,51 @@
+#perfil
+{	
+	text-align: center
+	margin: 20px;
+	background-color: #dcdcdc;
+	border-radius: 17px;
+	padding: 20px;
+}
+
+#perfil img
+{	
+	max-width: 180px;
+	border-radius: 95%;
+}
+
+#perfil h2
+{
+	color: #333;
+	font-size: 25px
+}
+
+#perfil h3 
+{
+    color: #333;
+    font-size: 20px;
+}
+
+#perfil ul 
+{
+    list-style-type: none;
+    padding: 0;
+}
+
+#perfil li 
+{
+    color: #333;
+    margin-bottom: 5px;
+}
+
+
+a 
+{
+    color: #666f88;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+a:hover 
+{
+    color: #eb9800;
+}
